@@ -1,0 +1,5 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore generated output file
+output.txt
